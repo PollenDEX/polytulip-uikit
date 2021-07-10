@@ -2225,12 +2225,12 @@ var socials = [
     {
         label: "Telegram",
         icon: "TelegramIcon",
-        href: "https://t.me/polysheepdefi"
+        href: "https://t.me/PollenDEX"
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/Polysheepdefi",
+        href: "https://twitter.com/DexPollen",
     },
 ];
 var MENU_HEIGHT = 64;
